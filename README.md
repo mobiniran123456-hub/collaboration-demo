@@ -10,3 +10,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 ## Project structure
 - app.txt: main project file
 - .github/workflows/ci.yml: simple CI workflow
+- Keep branches up to date with main
