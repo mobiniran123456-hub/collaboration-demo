@@ -1,3 +1,3 @@
 Collaboration Demo Project
 Version 1.0
-Feature: contributors can follow a documented Git and GitHub workflow.
+Feature: contributors can open issues, create branches and submit pull requests.
