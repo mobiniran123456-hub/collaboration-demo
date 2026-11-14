@@ -1,3 +1,5 @@
 Collaboration Demo Project
 Version 2.0
+Version 1.1
+conflict-a
 Feature: contributors can open issues, create branches and submit pull requests.
