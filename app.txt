@@ -1,2 +1,3 @@
 Collaboration Demo Project
 Version 1.0
+Feature: contributors can open issues, create branches and submit pull requests.
